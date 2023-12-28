@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate and experienced software engineer special
 ### Tech Stack:
 
 - **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** Django, FastAPI, Beaker/PyTeal
+- **Frameworks:** Django, FastAPI, Beaker/PyTeal, NextJS, Android
 - **Databases:** PostgreSQL, MySQL
 - **Blockchain:** Smart Contracts, Algorand (PyTeal / Beaker)
 - **Cloud Services:** AWS (EC2, S3, RDS)
@@ -32,8 +32,8 @@ Welcome to my GitHub! I'm a passionate and experienced software engineer special
 ### Education:
 
 - MBA (Entrepreneurship/Entrepreneurial Studies), School of Open Learning, University of Delhi (2023-2025)
-- Master of Computer Applications, Harcourt Butler Technical University (2017-2020)
-- B.Sc (Hons) Mathematics, University of Delhi
+- Master of Computer Applications, Harcourt Butler Technical University 
+- B.Sc (Hons) Mathematics, University of Delhi 
 
 Let's connect and explore ways to leverage technology for groundbreaking solutions!
 
