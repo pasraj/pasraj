@@ -1,43 +1,60 @@
-# Hi there, I'm Raj Kumar Paswan 👋
+# Raj Kumar Paswan
 
-## Software Engineer | Python/Django/FastAPI | Aspiring Entrepreneur | Blockchain Enthusiast
+New Delhi, INDIA • https://www.linkedin.com/in/rajkumar3205 • rajkumar3205@gmail.com
 
-Welcome to my GitHub! I'm a passionate and experienced software engineer specializing in Python, Django, and FastAPI, with a keen interest in blockchain technologies and smart contracts. Currently, I'm enhancing my knowledge by pursuing an MBA from Delhi University.
+## Skills
 
-### About Me:
+- **Languages:** Python, Terraform, PyTeal (Smart Contract), SQL, Java, JavaScript
+- **Framework:** Django, FastAPI, Terraform, RESTful APIs
+- **Database:** PostgreSQL, MySQL, SQLAlchemy, Database Design
+- **Infra:** AWS, EC2, RDS, Load Balancer, S3 bucket, VPC, Subnet, Git Action
+- **Additional:** Redis, Celery, Websocket, Docker, System Design
 
-- 🌱 I'm currently working as a Software Engineer at Quokka Labs.
-- 👨‍💻 I have 2+ years of experience in backend development, focusing on efficient web solutions and high-quality application delivery.
-- 🚀 I'm skilled in Python, Django, FastAPI, smart contracts, and database design.
-- 📚 Pursuing an MBA from Delhi University (Distance Learning), attending offline classes.
-- 🤝 Open to collaborate on innovative projects and cutting-edge technologies.
+## Work Experience
 
-### Tech Stack:
+### Quokka Labs LLP - Noida, UP, INDIA
+**Software Engineer**  
+*July 2023 – Present*
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** Django, FastAPI, Beaker/PyTeal, NextJS, Android
-- **Databases:** PostgreSQL, MySQL
-- **Blockchain:** Smart Contracts, Algorand (PyTeal / Beaker)
-- **Cloud Services:** AWS (EC2, S3, RDS)
-- **Others:** React Fundamentals, Google Analytics SDK, Firebase
+- Architected and implemented high-performance REST APIs using FastAPI, integrating type-hinting for precise backend operations; optimized API response time by 30% and reduced server load by 20%
+- Managed cloud infrastructure with Terraform and AWS, deploying and scaling applications for optimal performance and reliability
+- Specialized in tokenization purchases, creating NFTs on blockchain, and crafting smart contracts in the ALGORAND Ecosystem
+- Contributed significantly to FinTech projects within blockchain ecosystems.
 
-### Project Experience:
+### The One World - Kochi, Kerala, INDIA
+**Software Developer**  
+*May 2022 – December 2022*
 
-1. **Blockchain-based Transaction Platforms:** Worked on tokenizing purchases and creating NFTs on blockchain platforms.
-2. **HR Management Solutions:** Developed tools for task assignment, leave applications, and salary management with inventory management integration.
-3. **E-commerce and Retail Applications:** Built platforms for discovering and purchasing products, enhancing the shopping experience.
-4. **Community and Social Networking Apps:** Developed applications focusing on community support and emergency assistance.
-5. **Performance Monitoring Tools:** Created tools for website performance monitoring, reporting, and alert systems.
+- Directed backend development and management for multiple projects.
+- Engineered complex database structures tailored to meet the unique demands of e-commerce, dating apps, and social media platforms, driving a 25% improvement in overall system efficiency and user experience.
+- Proficient in server-side technologies, ensuring the creation, maintenance, and optimization of RESTful APIs.
 
-### Education:
+### Shreyas Technosoft (FindingPI Inc) - Pune, Maharashtra, INDIA
+**Software Developer**  
+*December 2021 – April 2022*
 
-- MBA (Entrepreneurship/Entrepreneurial Studies), School of Open Learning, University of Delhi (2023-2025)
-- Master of Computer Applications, Harcourt Butler Technical University 
-- B.Sc (Hons) Mathematics, University of Delhi 
+- Specialized in backend development using Django, including Django templates.
+- Identified and resolved bugs in a production environment, ensuring application stability.
+- Demonstrated strong problem-solving skills with a focus on timely and effective solutions.
+- Designed and developed a robust server monitoring tool using Python that periodically checks the availability of servers.
 
-Let's connect and explore ways to leverage technology for groundbreaking solutions!
+### Oasis Technologies - Noida, UP, INDIA
+**Software Developer**  
+*September 2020 – July 2021*
 
-### Contact Me:
+- Developed and maintained a Django-based HRM system for employee management, payroll, and performance tracking.
+- Proactively integrated IoT hand sanitizer dispensers to enhance workplace safety and hygiene in response to the global pandemic.
 
-- 📧 Email: [rajkumar3205@gmail.com](mailto:rajkumar3205@gmail.com)
-- 🔗 LinkedIn: [Raj Kumar Paswan](https://www.linkedin.com/in/rajkumar3205)
+## Education
+
+- **University of Delhi (School of Learning)**  
+  *Master of Business Administration*  
+  *2023-2025 (Present)*
+
+- **Harcourt Butler Technical University**  
+  *Master in Computer Application*  
+  *2017-2020*
+
+- **Rajdhani College (University of Delhi)**  
+  *B.Sc (Hons.) Mathematics*  
+  *2013-2016*
