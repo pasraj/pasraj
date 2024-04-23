@@ -47,7 +47,7 @@ New Delhi, INDIA • https://www.linkedin.com/in/rajkumar3205 • rajkumar3205@g
 
 ## Education
 
-- **University of Delhi (School of Learning)**  
+- **University of Delhi (School of Open Learning)**  
   *Master of Business Administration*  
   *2023-2025 (Present)*
 
